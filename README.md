@@ -62,7 +62,7 @@ pip install .
 ```python
     login = "_Login for access to Insight_"
     password = "same_pass"
-    jira_url = "https://sd.kalashnikovconcern.ru"
+    jira_url = "https://sd.company.ru"
     schema_name = "CMDB"
     object_type_name = "Ethernet Switches[MMZ]"
 ```
